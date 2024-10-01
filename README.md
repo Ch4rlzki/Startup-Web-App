@@ -1,2 +1,2 @@
-# Computer-Shop-Announcer
- A simple python based announcer for our computer shop
+# Startup-Web-App
+A simple python based startup web app for our computer shop
