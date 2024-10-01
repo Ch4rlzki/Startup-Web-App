@@ -16,3 +16,7 @@ with st.sidebar:
 if selected == "Rules":
     
     rulesBisaya()
+
+    st.title("English")
+
+    rulesEnglish()
