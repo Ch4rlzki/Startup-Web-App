@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-from rules.py import rulesBisaya, rulesEnglish
+from rules import rulesBisaya, rulesEnglish
 
 with st.sidebar:
     selected = option_menu(
